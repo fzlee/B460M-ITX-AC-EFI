@@ -2,6 +2,8 @@
 
 EFI for catalina 10.15.6
 
+![](https://raw.githubusercontent.com/fzlee/B460M-ITX-AC-EFI/master/images/catalina-10.15.6.png)
+
 ### specs
 Asrock B460m ITRX/AC
 Intel 10500 with UHD630
