@@ -5,11 +5,13 @@ EFI for catalina 10.15.6
 ![](https://raw.githubusercontent.com/fzlee/B460M-ITX-AC-EFI/master/images/catalina-10.15.6.png)
 
 ### specs
-Asrock B460m ITRX/AC
-Intel 10500 with UHD630
-Kinstom HyperX 3200MHZ 16GB * 2
-Intel 760P 512G SSD M.2
-BCM94352ZQ
+
+* Asrock B460m ITRX/AC
+* Intel 10500 with UHD630
+* Kinstom HyperX 3200MHZ 16GB * 2
+* Intel 760P 512G SSD M.2
+* BCM94352ZQ
+* no dGPU 
 
 
 ### What Works:
