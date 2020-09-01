@@ -27,5 +27,5 @@ Audio
 ### Notice
 
 1. `device-id` is a must for DeviceProperties->PciRoot(0x0)/Pci(0x2,0x0), or you may suffer crashes on firefox, Photos etc. 
-2. Serial number has been removed from PlatForm->Generic, you shoule generate with SMBIOS by yourself.
+2. Serial number has been removed from PlatForm->Generic, you shoule generate with GenSMBIOS by yourself.
 
