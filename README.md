@@ -10,7 +10,7 @@ EFI for catalina 10.15.6
 * Intel 10500 with UHD630
 * Kinstom HyperX 3200MHZ 16GB * 2
 * Intel 760P 512G SSD M.2
-* BCM94352ZQ
+* BCM94352Z
 * no dGPU 
 
 
@@ -19,10 +19,9 @@ EFI for catalina 10.15.6
 2. DP and HDMI.
 3. CPU/FAN sensors etc.
 4. icloud, iMessage etc.
+5. audio
 
 ### What broken:
-Audio
-
 
 ### Notice
 
