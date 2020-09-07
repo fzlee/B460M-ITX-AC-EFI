@@ -2,6 +2,9 @@
 
 EFI for catalina 10.15.6
 
+# thanks to:
+@chenwutong
+
 ![](https://raw.githubusercontent.com/fzlee/B460M-ITX-AC-EFI/master/images/catalina-10.15.6.png)
 
 ### Specs
