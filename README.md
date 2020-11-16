@@ -5,7 +5,7 @@ EFI for Big Sur 11.0.1
 # Thanks to:
 @chenwutong
 
-![](https://raw.githubusercontent.com/fzlee/B460M-ITX-AC-EFI/master/images/big-sur-11.0.1.jpg)
+![](https://raw.githubusercontent.com/fzlee/B460M-ITX-AC-EFI/master/bigsur-11.0.1.jpg)
 
 ### Specs
 
