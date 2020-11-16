@@ -1,11 +1,11 @@
-## Hackintosh for Asrock B460m ITX/AC
+## Hackintosh for Asrock B460m ITX/AC. Big Sur supported
 
-EFI for catalina 10.15.6
+EFI for Big Sur 11.0.1
 
-# thanks to:
+# Thanks to:
 @chenwutong
 
-![](https://raw.githubusercontent.com/fzlee/B460M-ITX-AC-EFI/master/images/catalina-10.15.6.png)
+![](https://raw.githubusercontent.com/fzlee/B460M-ITX-AC-EFI/master/images/big-sur-11.0.1.jpg)
 
 ### Specs
 
@@ -25,6 +25,7 @@ EFI for catalina 10.15.6
 5. audio
 
 ### What broken:
+Login GUI, will be fixed soon
 
 ### Notice
 
