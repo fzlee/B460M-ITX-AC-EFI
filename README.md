@@ -21,11 +21,8 @@ EFI for Big Sur 11.0.1
 1. Bluetooth, wireless, Airdrop.
 2. DP and HDMI.
 3. CPU/FAN sensors etc.
-4. icloud, iMessage etc.
-5. audio
-
-### What broken:
-Login GUI, will be fixed soon
+4. iCloud, iMessage etc.
+5. Audio
 
 ### Notice
 
