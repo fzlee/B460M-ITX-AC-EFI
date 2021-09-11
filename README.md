@@ -1,11 +1,12 @@
 ## Hackintosh for Asrock B460m ITX/AC. Big Sur supported
 
-EFI for Big Sur 11.0.1
+Opencore 7.3
+EFI for Big Sur 11.5.2
 
 # Thanks to:
 @chenwutong
 
-![](https://raw.githubusercontent.com/fzlee/B460M-ITX-AC-EFI/master/bigsur-11.0.1.jpg)
+![](https://raw.githubusercontent.com/fzlee/B460M-ITX-AC-EFI/master/bugsure.11.5.2.png)
 
 ### Specs
 
@@ -23,6 +24,7 @@ EFI for Big Sur 11.0.1
 3. CPU/FAN sensors etc.
 4. iCloud, iMessage etc.
 5. Audio
+6. Wake-On-Lan
 
 ### Notice
 
