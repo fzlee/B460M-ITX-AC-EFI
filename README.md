@@ -24,11 +24,15 @@ RapidEFI
 ### What Works:
 
 1. Bluetooth, wireless, Airdrop.
-2. DP and HDMI.
+2. DP.
 3. CPU/FAN sensors etc.
 4. iCloud, iMessage etc.
 5. Audio
 6. Wake-On-Lan
+
+### What broken
+
+1. HDMI
 
 ### Notice
 
@@ -41,3 +45,11 @@ RapidEFI
 
 Sonoma has dropped support for Boroadcom wifi card, you need to enbale it with the following guide  
 https://www.youtube.com/watch?v=gHs2CFox6gc&t=115s
+
+To grant permissions to apps:
+
+```bash
+sqlite3 ~/Library/Application\ Support/com.apple.TCC/TCC.db
+insert into access values ('kTCCServiceMicrophone','com.google.Chrome', 0, 2, 2, 1, null, null, null, 'UNUSED', null, null, 1669648527,null,null,'UNUSED',1669648527);
+insert into access values ('kTCCServiceCamera','com.google.Chrome', 0, 2, 2, 1, null, null, null, 'UNUSED', null, null, 1669648527,null,null,'UNUSED',1669648527);
+```
